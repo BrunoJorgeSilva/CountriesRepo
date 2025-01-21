@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD78687-D86F-4F8B-A8C6-DC561F15C7B0}|WorkerService\\WorkerService.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD78687-D86F-4F8B-A8C6-DC561F15C7B0}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD78687-D86F-4F8B-A8C6-DC561F15C7B0}|WorkerService\\WorkerService.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\workerservice\\workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACD78687-D86F-4F8B-A8C6-DC561F15C7B0}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|solutionrelative:countriesapi.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.application\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|solutionrelative:countriesapi.application\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|solutionrelative:countriesapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD78687-D86F-4F8B-A8C6-DC561F15C7B0}|WorkerService\\WorkerService.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD78687-D86F-4F8B-A8C6-DC561F15C7B0}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.application\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|solutionrelative:countriesapi.application\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855F9078-FED6-4C37-ADB6-A000D5334642}|JobLibrary\\JobLibrary.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\joblibrary\\interfaces\\iupdatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855F9078-FED6-4C37-ADB6-A000D5334642}|JobLibrary\\JobLibrary.csproj|solutionrelative:joblibrary\\interfaces\\iupdatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855F9078-FED6-4C37-ADB6-A000D5334642}|JobLibrary\\JobLibrary.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\joblibrary\\updatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855F9078-FED6-4C37-ADB6-A000D5334642}|JobLibrary\\JobLibrary.csproj|solutionrelative:joblibrary\\updatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB912B-B4FF-4153-B3E3-B489A6FA5242}|CountriesApi.Tests\\CountriesApi.Tests.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.tests\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB912B-B4FF-4153-B3E3-B489A6FA5242}|CountriesApi.Tests\\CountriesApi.Tests.csproj|solutionrelative:countriesapi.tests\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|solutionrelative:countriesapi.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.application\\interfaces\\icountryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|solutionrelative:countriesapi.application\\interfaces\\icountryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.application\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|solutionrelative:countriesapi.application\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|solutionrelative:countriesapi.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\external\\countryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\external\\countryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.application\\mappers\\countrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0453F3-6F45-4EF3-AFCB-1106862E2904}|CountriesApi.Application\\CountriesApi.Application.csproj|solutionrelative:countriesapi.application\\mappers\\countrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.domain\\responseobjects\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|solutionrelative:countriesapi.domain\\responseobjects\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|solutionrelative:countriesapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EA916B7-CD0C-45AE-987A-307FD50B81C9}|CountriesApi.Api\\CountriesApi.Api.csproj|solutionrelative:countriesapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\migrations\\20250117211258_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\migrations\\20250117211258_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\factories\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\factories\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\countriesapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\countriesapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F77F7-1157-408A-9727-C7336726EF55}|CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj|solutionrelative:countriesapi.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.domain\\responseobjects\\dtos\\coordinatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|solutionrelative:countriesapi.domain\\responseobjects\\dtos\\coordinatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.domain\\responseobjects\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|solutionrelative:countriesapi.domain\\responseobjects\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\hanh software\\countriesapi\\countriesapi.domain\\entities\\coordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA31D85-719A-42E9-A8CA-496DEC7DE9E9}|CountriesApi.Domain\\CountriesApi.Domain.csproj|solutionrelative:countriesapi.domain\\entities\\coordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\WorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Worker.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\WorkerService\\Worker.cs",
+              "RelativeToolTip": "WorkerService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:05:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\Repositories\\CountryRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAvwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:44:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Api\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "CountriesApi.Api\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:11:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Application\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Services\\CountryService.cs",
+              "RelativeToolTip": "CountriesApi.Application\\Services\\CountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:08:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerService.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\WorkerService\\WorkerService.csproj",
+              "RelativeDocumentMoniker": "WorkerService\\WorkerService.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\WorkerService\\WorkerService.csproj",
+              "RelativeToolTip": "WorkerService\\WorkerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T00:41:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\WorkerService\\Program.cs",
+              "RelativeToolTip": "WorkerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:45:10.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\Program.cs",
+              "RelativeToolTip": "CountriesApi.Api\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:17:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUpdateJob.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\JobLibrary\\Interfaces\\IUpdateJob.cs",
+              "RelativeDocumentMoniker": "JobLibrary\\Interfaces\\IUpdateJob.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\JobLibrary\\Interfaces\\IUpdateJob.cs",
+              "RelativeToolTip": "JobLibrary\\Interfaces\\IUpdateJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:47:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateJob.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\JobLibrary\\UpdateJob.cs",
+              "RelativeDocumentMoniker": "JobLibrary\\UpdateJob.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\JobLibrary\\UpdateJob.cs",
+              "RelativeToolTip": "JobLibrary\\UpdateJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:49:55.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Application\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "CountriesApi.Application\\Interfaces\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:16:44.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Tests\\CountryServiceTests.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Tests\\CountryServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Tests\\CountryServiceTests.cs",
+              "RelativeToolTip": "CountriesApi.Tests\\CountryServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:28:58.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "CountriesApi.Domain\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:50:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Application\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "CountriesApi.Application\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:12:44.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICountryIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Interfaces\\ICountryIntegration.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Application\\Interfaces\\ICountryIntegration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Interfaces\\ICountryIntegration.cs",
+              "RelativeToolTip": "CountriesApi.Application\\Interfaces\\ICountryIntegration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:04:12.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\External\\CountryIntegration.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\External\\CountryIntegration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\External\\CountryIntegration.cs",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\External\\CountryIntegration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:17:03.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Application\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Common\\Result.cs",
+              "RelativeToolTip": "CountriesApi.Application\\Common\\Result.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:24:31.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CountryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Mappers\\CountryMapper.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Application\\Mappers\\CountryMapper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\Mappers\\CountryMapper.cs",
+              "RelativeToolTip": "CountriesApi.Application\\Mappers\\CountryMapper.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAD4vzgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:45:25.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\ResponseObjects\\DTOs\\CountryDto.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Domain\\ResponseObjects\\DTOs\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\ResponseObjects\\DTOs\\CountryDto.cs",
+              "RelativeToolTip": "CountriesApi.Domain\\ResponseObjects\\DTOs\\CountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:11:22.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CountriesApi.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\appsettings.json",
+              "RelativeToolTip": "CountriesApi.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T20:53:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CountriesApi.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CountriesApi.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T20:18:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\appsettings.json",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\appsettings.json",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T21:09:37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Factories\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\Factories\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Factories\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\Factories\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:01:22.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CountriesApi.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\CountriesApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T21:04:28.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250117211258_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Migrations\\20250117211258_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\Migrations\\20250117211258_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Migrations\\20250117211258_InitialMigration.cs",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\Migrations\\20250117211258_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:13:11.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:16:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CountriesApi.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:48:53.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CoordinateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\ResponseObjects\\DTOs\\CoordinateDto.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Domain\\ResponseObjects\\DTOs\\CoordinateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\ResponseObjects\\DTOs\\CoordinateDto.cs",
+              "RelativeToolTip": "CountriesApi.Domain\\ResponseObjects\\DTOs\\CoordinateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:11:12.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\ResponseObjects\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Domain\\ResponseObjects\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\ResponseObjects\\ApiResponse.cs",
+              "RelativeToolTip": "CountriesApi.Domain\\ResponseObjects\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:11:30.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Coordinates.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\Entities\\Coordinates.cs",
+              "RelativeDocumentMoniker": "CountriesApi.Domain\\Entities\\Coordinates.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Domain\\Entities\\Coordinates.cs",
+              "RelativeToolTip": "CountriesApi.Domain\\Entities\\Coordinates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:40:59.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

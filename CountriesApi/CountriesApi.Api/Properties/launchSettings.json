@@ -1,0 +1,44 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5078",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "URLCOUNTRIESPUBLICAPI": "https://countries-api-abhishek.vercel.app/countries",
+        "CONNECTION_STRING": "Server=localhost;Database=WorldWideCountries;Integrated Security=True;TrustServerCertificate=True;"
+      },
+      "dotnetRunMessages": true
+    },
+    "https": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7299",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "URLCOUNTRIESPUBLICAPI": "https://countries-api-abhishek.vercel.app/countries",
+        "CONNECTION_STRING": "Server=localhost;Database=WorldWideCountries;Integrated Security=True;TrustServerCertificate=True;"
+      },
+      "dotnetRunMessages": true
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "URLCOUNTRIESPUBLICAPI": "https://countries-api-abhishek.vercel.app/countries",
+        "CONNECTION_STRING": "Server=localhost;Database=WorldWideCountries;Integrated Security=True;TrustServerCertificate=True;"
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:54447",
+      "sslPort": 44367
+    }
+  }
+}

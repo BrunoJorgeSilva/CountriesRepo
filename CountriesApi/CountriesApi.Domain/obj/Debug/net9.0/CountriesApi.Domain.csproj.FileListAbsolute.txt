@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\bin\Debug\net9.0\CountriesApi.Domain.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\bin\Debug\net9.0\CountriesApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\bin\Debug\net9.0\CountriesApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\CountriesApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\CountriesApi.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\CountriesApi.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\CountriesApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\CountriesApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\refint\CountriesApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\CountriesApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Domain\obj\Debug\net9.0\ref\CountriesApi.Domain.dll

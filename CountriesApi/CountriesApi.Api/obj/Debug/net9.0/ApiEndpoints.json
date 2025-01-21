@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CountriesApi.Api.Controllers.CountriesController",
+    "Method": "GetCountries",
+    "RelativePath": "api/Countries/GetAllCountries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountriesApi.Api.Controllers.CountriesController",
+    "Method": "UpdateAllCountries",
+    "RelativePath": "api/Countries/UpdateAllCountries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

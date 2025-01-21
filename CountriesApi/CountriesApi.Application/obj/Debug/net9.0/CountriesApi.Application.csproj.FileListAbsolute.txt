@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\bin\Debug\net9.0\CountriesApi.Application.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\bin\Debug\net9.0\CountriesApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\bin\Debug\net9.0\CountriesApi.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\bin\Debug\net9.0\CountriesApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\bin\Debug\net9.0\CountriesApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\Countrie.4F28B213.Up2Date
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\refint\CountriesApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\CountriesApi.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\CountriesApi.Application\obj\Debug\net9.0\ref\CountriesApi.Application.dll

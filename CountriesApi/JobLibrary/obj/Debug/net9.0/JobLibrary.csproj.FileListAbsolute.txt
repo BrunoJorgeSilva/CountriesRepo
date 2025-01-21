@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\JobLibrary.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\JobLibrary.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\JobLibrary.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\CountriesApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\CountriesApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\CountriesApi.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\bin\Debug\net9.0\CountriesApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.csproj.Up2Date
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\refint\JobLibrary.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\JobLibrary.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Hanh Software\CountriesApi\JobLibrary\obj\Debug\net9.0\ref\JobLibrary.dll

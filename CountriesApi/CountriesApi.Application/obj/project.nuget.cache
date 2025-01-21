@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4M0KjV+j1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Hanh Software\\CountriesApi\\CountriesApi.Application\\CountriesApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
